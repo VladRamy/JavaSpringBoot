@@ -1,0 +1,9 @@
+zoo:
+- id: 01-56
+  dateB: 01.02.2020
+  dateR: 01.06.2020
+  breed: Zebra
+- id: 01-32
+  dateB: 09.06.2019
+  dateR: 23.11.2021
+  breed: Garila
